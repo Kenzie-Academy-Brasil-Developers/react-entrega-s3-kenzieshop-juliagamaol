@@ -1,0 +1,11 @@
+.btn{
+    cursor: pointer;
+    padding: 10px;
+    background: rgb(146, 146, 230);
+    border: 1px solid transparent;
+    color: white;
+}
+img{
+    width: 100px;
+    height: 100px;
+}

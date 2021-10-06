@@ -1,0 +1,15 @@
+
+.MuiPaper-root{
+    max-width: 240px !important;
+    max-height: 500px !important;
+    margin: 15px !important;
+}
+
+button{
+    cursor: pointer;
+    padding: 10px;
+    background: rgb(146, 146, 230);
+    border: 1px solid transparent;
+    color: white;
+}
+

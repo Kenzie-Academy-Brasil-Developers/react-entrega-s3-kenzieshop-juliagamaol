@@ -1,0 +1,15 @@
+.tot{
+    cursor: pointer;
+    padding: 10px;
+    background: rgb(146, 146, 230);
+    border: 1px solid transparent;
+    color: white;
+}
+h2{
+    width: 50%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 30px;
+
+}
